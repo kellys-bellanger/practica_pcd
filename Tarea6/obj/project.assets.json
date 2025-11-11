@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
-      "projectName": "CatalogoCursos",
-      "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
+      "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea6\\Tarea6.csproj",
+      "projectName": "Tarea6",
+      "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea6\\Tarea6.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\obj\\",
+      "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

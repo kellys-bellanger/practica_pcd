@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj": {}
+    "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea7\\Tarea7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj": {
+    "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea7\\Tarea7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
-        "projectName": "CatalogoCursos",
-        "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
+        "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea7\\Tarea7.csproj",
+        "projectName": "Tarea7",
+        "projectPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea7\\Tarea7.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\obj\\",
+        "outputPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\DesarrolladorUX\\practica_pcd\\Tarea7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
