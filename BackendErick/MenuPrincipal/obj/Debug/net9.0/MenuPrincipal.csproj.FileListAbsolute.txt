@@ -1,0 +1,15 @@
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\bin\Debug\net9.0\MenuPrincipal.exe
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\bin\Debug\net9.0\MenuPrincipal.deps.json
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\bin\Debug\net9.0\MenuPrincipal.runtimeconfig.json
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\bin\Debug\net9.0\MenuPrincipal.dll
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\bin\Debug\net9.0\MenuPrincipal.pdb
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.AssemblyInfoInputs.cache
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.AssemblyInfo.cs
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.sourcelink.json
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.dll
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\refint\MenuPrincipal.dll
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.pdb
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\MenuPrincipal.genruntimeconfig.cache
+C:\Users\anton\BackendErick\practica_pcd\MenuPrincipal\obj\Debug\net9.0\ref\MenuPrincipal.dll
