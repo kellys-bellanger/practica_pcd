@@ -20,14 +20,32 @@ Para compilar y ejecutar esta aplicación, necesitarás lo siguiente:
 
 ## 🚀 Compilación y Ejecución
 
-Sigue estos pasos en tu terminal (CLI) para poner en marcha el proyecto:
-
-### 1. Navegar al Directorio
+1. Navegar al Directorio
 Abre la terminal y navega hasta el directorio raíz donde se encuentra el archivo `.csproj` del proyecto:
-## Compilación y Ejecución (dentro de la terminal)
-bash
-dotnet build 
-dotnet run 
+Compilación y Ejecución (dentro de la terminal)
+I. Clonar el Repositorio
+Abre tu Terminal/Línea de Comandos.
+Clona el repositorio de GitHub:
+Bash
+git clone https://github.com/kellys-bellanger/practica-pcd.git
+Navega al directorio del proyecto:
+Bash
+cd practica-pcd
+II. Instalar Dependencias (Si es necesario)
+Asegúrate de tener instalado el SDK de .NET.
+Restaura las dependencias del proyecto:
+Bash
+dotnet restore
+III. Ejecutar el Proyecto
+Ejecuta el programa desde la línea de comandos:
+Bash
+dotnet run
+El sistema mostrará el menú principal: CATÁLOGO DE CURSOS ===.
+Ingresa 1 para Listar todos los cursos.
+Ingresa 2 para Buscar cursos (por nombre o área).
+Ingresa 3 para Salir del sistema.
+
+
 
 Tarea 9 
 PASO 1: Probar que compila sin errores
