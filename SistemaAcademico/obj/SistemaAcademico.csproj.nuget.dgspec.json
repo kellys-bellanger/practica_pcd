@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj": {}
+    "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\SistemaAcademico\\SistemaAcademico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj": {
+    "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\SistemaAcademico\\SistemaAcademico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
-        "projectName": "CatalogoCursos",
-        "projectPath": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\CatalogoCursos.csproj",
+        "projectUniqueName": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\SistemaAcademico\\SistemaAcademico.csproj",
+        "projectName": "SistemaAcademico",
+        "projectPath": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\SistemaAcademico\\SistemaAcademico.csproj",
         "packagesPath": "C:\\Users\\jlsel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\OneDrive\\Desktop\\Backend1EA\\CatalogoCursos\\obj\\",
+        "outputPath": "C:\\Users\\jlsel\\Desktop\\TrabajoPCD\\practica_pcd\\SistemaAcademico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
